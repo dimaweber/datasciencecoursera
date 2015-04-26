@@ -1,8 +1,3 @@
----
-title: "Readme.md"
-output: html_document
----
-
 This repository containd R file with script which do some data-cleanup.
 Oparations are done on data, loaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
