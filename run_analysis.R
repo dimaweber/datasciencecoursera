@@ -1,3 +1,5 @@
+library(reshape2)
+
 # read column names from file 
 features <- read.table("features.txt", stringsAsFactors =  FALSE)
 desc_col_names <- features[,2]

@@ -13,6 +13,9 @@ R script called run_analysis.R that does the following.
 
 After running this script, you will get two data frames called output and summary. Also those data frames will be stored in current working dirrectory as 'output.txt' and 'summary.txt'
 
+Also, this script requires reshape2 library, so before running it, you should install this library with
+install.packages('reshape2')
+
 ## Code book
 
 * activity -- activity name (one of walking, walking upstraits, walking downstraits, sitting, standing, laying)
